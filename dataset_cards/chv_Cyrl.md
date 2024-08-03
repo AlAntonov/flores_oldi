@@ -2,7 +2,7 @@
 
 ## Description
 
-FLORES+ dev set in Chuvash
+FLORES+ in Chuvash
 
 ## License
 
@@ -31,3 +31,4 @@ Some additional resources in Chuvash are below:
 ## Workflow
 
 Data was translated from Russian by one translator, a native speaker of the target language. 100% of the data was checked by one more independent translator.
+Dev and devtest datasets were translated by 2 independent translators
